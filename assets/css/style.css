@@ -1681,7 +1681,6 @@ section {
 --------------------------------------------------------------*/
 #footer {
   background: #fff;
-  padding: 0 0 30px 0;
   color: #444444;
   font-size: 14px;
   background: #f1f6fe;
@@ -1841,7 +1840,6 @@ section {
 }
 
 #footer .credits {
-  float: right;
   text-align: center;
   font-size: 13px;
   color: #444444;
