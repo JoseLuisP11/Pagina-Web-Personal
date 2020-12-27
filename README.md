@@ -10,6 +10,7 @@ Mi página web personal en la que detallo mis conocimientos y proyectos realizad
 * GitHub
 * Visual Studio Code
 
-## Mapa del sitio y SEO
+## SEO on page
 He añadido un archivo sitemap.xml para que la página sea indexada con éxito y un archivo robots.txt para evitar que los navegadores accedan a las carpetas /assets y /forms.
 
+También he añadido las metaetiquetas siguiendo los ejemplos aparecidos en la teoría de la asignatura de 4º año, Comercio electrónico.
