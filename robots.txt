@@ -1,0 +1,6 @@
+Sitemap: https://joseluisp11.github.io/Pagina-Web-Personal/sitemap.xml
+
+User-agent: *
+Disallow: /assets/
+Disallow: /forms/
+Disallow: /README.md
