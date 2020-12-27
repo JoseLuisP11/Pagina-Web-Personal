@@ -511,6 +511,11 @@ h1, h2, h3, h4, h5, h6 {
   background: #247cf0;
 }
 
+#Inicio .btn-icono:hover {
+  color: #fff;
+  background: #106eea;
+}
+
 #Inicio .btn-watch-video {
   font-size: 16px;
   display: inline-block;
